@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\codes_on_c#_learning\bin\Debug\codes_on_c#_learning.exe.config
+C:\Users\ASUS\source\repos\codes_on_c#_learning\bin\Debug\codes_on_c#_learning.exe
+C:\Users\ASUS\source\repos\codes_on_c#_learning\bin\Debug\codes_on_c#_learning.pdb
+C:\Users\ASUS\source\repos\codes_on_c#_learning\obj\Debug\codes_on_c#.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\codes_on_c#_learning\obj\Debug\codes_on_c#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\codes_on_c#_learning\obj\Debug\codes_on_c#_learning.exe
+C:\Users\ASUS\source\repos\codes_on_c#_learning\obj\Debug\codes_on_c#_learning.pdb
