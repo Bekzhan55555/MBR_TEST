@@ -123,6 +123,9 @@ class OptimizationAlgorithm
                 Console.WriteLine($"\nОптимальное решение X* = {X1}");
                 Console.WriteLine($"Функция в этой точке f(X*) = {Function(X1)}");
                 Console.WriteLine($"Первая производная f'(X*) = {FirstDerivative(X1)}");
+                Console.WriteLine($"Hello ZA WARUDO");
+                Console.WriteLine($"Hello ZA WARUDO");
+                Console.WriteLine($"Hello ZA WARUDO");
                 Console.ReadKey();
 
             }
